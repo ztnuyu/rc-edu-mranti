@@ -968,10 +968,10 @@
           <div class="col-lg-6">
             <div class="single_form">
               <input
-                type="email"
+                type="number"
                 placeholder="IC Number"
-                name="email"
-                id="email"
+                name="icnumber"
+                id="icnumber"
                 required
               />
             </div>
@@ -981,8 +981,8 @@
               <input
                 type="text"
                 placeholder="School"
-                name="number"
-                id="number"
+                name="school"
+                id="school"
                 required
               />
             </div>
@@ -992,8 +992,8 @@
               <input
                 type="text"
                 placeholder="Faculty"
-                name="subject"
-                id="subject"
+                name="faculty"
+                id="faculty"
                 required
               />
             </div>
@@ -1034,9 +1034,10 @@
           <div class="col-lg-12">
             <div class="single_form">
               <input
+                type="email"
                 placeholder="Email"
-                name="message"
-                id="message"
+                name="email"
+                id="email"
                 required
               >
             </div>
@@ -1046,9 +1047,10 @@
           <div class="col-lg-12">
             <div class="single_form">
               <input
-                placeholder="Phone Number"
-                name="message"
-                id="message"
+              type="number"
+              placeholder="Phone Number"
+                name="number"
+                id="number"
                 required
               >
             </div>
