@@ -980,7 +980,7 @@
             <div class="single_form">
               <input
                 type="text"
-                placeholder="School"
+                placeholder="Educational Institution"
                 name="school"
                 id="school"
                 required
