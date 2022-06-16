@@ -265,7 +265,7 @@
             data-wow-delay="0.6s"
           >
             <img src="/assets/images/people.svg" />
-            <h4 class="features_title">Everyone (Entry Level)</h4>
+            <h4 class="features_title">Public</h4>
             <p></p>
           </div>
         </div>
